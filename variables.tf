@@ -1,6 +1,6 @@
  
-variable name {}
-variable resource_group_name {}
+variable "name" {}
+variable "resource_group_name" {}
 
 variable "rule_names" {}
 variable "start_ip" {}
