@@ -1,8 +1,6 @@
  
 variable "name" {}
 variable "resource_group_name" {}
-
-variable "rules_names" {}
 variable "start_ip" {}
 variable "end_ip" {}
 variable "sql_server_name" {}
